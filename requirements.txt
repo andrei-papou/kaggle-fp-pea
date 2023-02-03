@@ -1,0 +1,15 @@
+bertopic
+catboost
+jupyter
+matplotlib
+nltk
+numpy
+pandas
+protobuf==3.20.*
+scikit-learn
+sentencepiece
+text-unidecode
+textfeatures
+torch
+tqdm
+transformers==4.20.1
